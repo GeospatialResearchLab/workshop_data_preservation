@@ -1,4 +1,4 @@
-# Data Preservation Workshop: Raising Data from the Dead!
+# Data Preservation Workshop: Bringing Data Back from the Dead!
 
 **Date:** October 28 2025 (Scary Data Week)  
 **Hosted by:** Geospatial Research Lab (Scary Data Week programming)  
