@@ -15,7 +15,7 @@ Digital data doesn’t always stay put. Websites change, tools disappear, and va
 
 ## Materials
 
-- **Slides (PDF):** [`handouts/slides.pdf`](handouts/slides.pdf)  
+- **Slides (PDF):** [`slides.pdf`](documents/slides.pdf)  
 
 ---
 
