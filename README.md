@@ -2,7 +2,7 @@
 
 **Date:** October 28 2025 (Scary Data Week)  
 **Hosted by:** Geospatial Research Lab (Scary Data Week programming)  
-**Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support) and Olivia Ivey, MLIS, MSSW (Assistant Librarian)
+**Instructor:** Jessica Breen, PhD (Program Director, Geospatial Research Support) and Olivia Ivey, MLIS, MSSW (Assistant Librarian)  
 **Tags:** Data Preservation • Civic Data • Workshop
 
 ---
