@@ -40,4 +40,4 @@ Content was developed and delivered by the **Geospatial Research Lab**.
 
 Breen, J. and Olivia Ivey (2025). *Data Preservation Workshop: Bringing Data Back from the Dead!* (workshop materials).  
 Geospatial Research Lab, American University Library.  
-https://github.com/GeospatialResearchLab/workshop-data-preservation-2025
+https://github.com/GeospatialResearchLab/workshop_data_preservation_2025
